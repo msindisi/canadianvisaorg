@@ -1,0 +1,31 @@
+{
+    "name": "CanadianVisa",
+    "short_name": "CV",
+    "start_url": "https://VisasCanada.org/",
+    "scope ": "https://VisasCanada.org/",
+    "icons": [
+        {
+            "src": "https://cv-media-files.s3-us-west-2.amazonaws.com/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://cv-media-files.s3-us-west-2.amazonaws.com/favicon/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://cv-media-files.s3-us-west-2.amazonaws.com/favicon/maskable_icon.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#db0b20",
+    "background_color": "#db0b20",
+    "display": "standalone",
+    "gcm_sender_id": "103953800507",
+    "description": "VisasCanada.org works with Regulated Canadian Immigration Consultants (RCIC), who specialize in assisting and simplifying the VisasCanada.Org application process."
+}
